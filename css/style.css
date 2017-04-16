@@ -10,7 +10,7 @@
 
 	body
 	{
-		background: #191970;
+		background: #141414;
 	}
 
 	body,input,textarea,select
@@ -18,7 +18,7 @@
 		font-family: 'Arimo', sans-serif;
 		font-size: 11pt;
 		line-height: 1.75em;
-		color: #191970;
+		color: #141414;
 	}
 
 	h1,h2,h3,h4,h5,h6
