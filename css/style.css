@@ -290,8 +290,8 @@
 
 	#header
 	{
-		position: relative;
-		background: #2a2f27 url(../images/banner.jpg) no-repeat;
+		position: center;
+		background: #191970 url(../images/banner.jpg) no-repeat;
 		background-size: cover;
 	}
 
@@ -314,7 +314,7 @@
 
 	#banner
 	{
-		position: relative;
+		position: center;
 		background: #333;
 		color: #fff;
 	}
