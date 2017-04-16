@@ -292,7 +292,7 @@
 	{
 		position: center;
 		background: #191970 url(../images/banner.jpg) no-repeat;
-		background-size: cover;
+		background-size: centered;
 	}
 
 	#logo
